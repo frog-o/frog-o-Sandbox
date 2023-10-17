@@ -1,5 +1,6 @@
 # react-esbuild-starter
-
+this is just a play ground not ment to be useful to anybody
+at the moment I just tring to firgue out how code sandboxworks. 
 Starter template for React and Typescript.
 Inspired by https://github.com/sikanhe/rescript-esbuild-starter
 
